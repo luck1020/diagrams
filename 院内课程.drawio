@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T07:45:54.221Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="ahx85Td0xuVhgt05X1-u" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T07:46:45.438Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="p8x6SAX18hfZIVRTQt3R" version="20.1.1" type="github">
   <diagram id="lPLnxijLffPF35K8PNV2" name="第 1 页">
     <mxGraphModel dx="1662" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="whcrr9R5FC-ByMepHqKr-22" value="长者报名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whcrr9R5FC-ByMepHqKr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whcrr9R5FC-ByMepHqKr-23" target="whcrr9R5FC-ByMepHqKr-3">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="whcrr9R5FC-ByMepHqKr-23" value="保报名表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
