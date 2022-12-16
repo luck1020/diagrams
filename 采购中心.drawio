@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T12:51:06.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="0X0QezzwkBrXqNOxjv63" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T14:06:18.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="sRe8ZeaJ37M04GtjObok" version="20.6.2" type="github">
   <diagram id="_l68q7Rq-pkRGa_NqP47" name="第 1 页">
-    <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7OBlotwKf9dcvaxBll90-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-1" target="7OBlotwKf9dcvaxBll90-6">
+        <mxCell id="7OBlotwKf9dcvaxBll90-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7OBlotwKf9dcvaxBll90-1" target="7OBlotwKf9dcvaxBll90-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="200" />
@@ -12,10 +12,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-2">
+        <mxCell id="7OBlotwKf9dcvaxBll90-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7OBlotwKf9dcvaxBll90-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="290" as="targetPoint" />
             <Array as="points">
@@ -25,10 +25,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购经理&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购经理&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-3" target="7OBlotwKf9dcvaxBll90-6">
+        <mxCell id="7OBlotwKf9dcvaxBll90-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7OBlotwKf9dcvaxBll90-3" target="7OBlotwKf9dcvaxBll90-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="310" />
@@ -36,34 +36,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购总监&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购总监&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-4" target="7OBlotwKf9dcvaxBll90-23">
+        <mxCell id="7OBlotwKf9dcvaxBll90-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7OBlotwKf9dcvaxBll90-4" target="7OBlotwKf9dcvaxBll90-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;仓管人员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;仓管人员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-5" target="7OBlotwKf9dcvaxBll90-20">
+        <mxCell id="7OBlotwKf9dcvaxBll90-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7OBlotwKf9dcvaxBll90-5" target="7OBlotwKf9dcvaxBll90-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;供应商&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;供应商&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-6" target="7OBlotwKf9dcvaxBll90-17">
+        <mxCell id="7OBlotwKf9dcvaxBll90-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7OBlotwKf9dcvaxBll90-6" target="7OBlotwKf9dcvaxBll90-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购单&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购单&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-11" value="创建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-11" value="创建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="225" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-13" value="审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-13" value="审批" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-15" target="7OBlotwKf9dcvaxBll90-1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7OBlotwKf9dcvaxBll90-15" target="7OBlotwKf9dcvaxBll90-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="410" />
@@ -72,147 +72,324 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购计划推送的采购单进行确认并选择对应的采购员操作&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购计划推送的采购单进行确认并选择对应的采购员操作&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="290" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-17" target="7OBlotwKf9dcvaxBll90-5">
+        <mxCell id="7OBlotwKf9dcvaxBll90-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7OBlotwKf9dcvaxBll90-17" target="7OBlotwKf9dcvaxBll90-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批完成的采购单&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批完成的采购单&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-20" target="7OBlotwKf9dcvaxBll90-4">
+        <mxCell id="7OBlotwKf9dcvaxBll90-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7OBlotwKf9dcvaxBll90-20" target="7OBlotwKf9dcvaxBll90-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;可以进行货物确认以及填写发货的运单号、预计到货时间和数量&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;可以进行货物确认以及填写发货的运单号、预计到货时间和数量&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="35" y="680" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-23" value="&lt;p style=&quot;text-indent:21.0000pt;mso-char-indent-count:2.0000;text-autospace:ideograph-numeric;&lt;br/&gt;mso-pagination:none;line-height:150%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;line-height:150%;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;采购单的实际到货情况进行到货清点和接收预计到货时间提醒。&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;line-height:150%;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-23" value="&lt;p style=&quot;text-indent:21.0000pt;mso-char-indent-count:2.0000;text-autospace:ideograph-numeric;&lt;br/&gt;mso-pagination:none;line-height:150%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;line-height:150%;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;采购单的实际到货情况进行到货清点和接收预计到货时间提醒。&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;line-height:150%;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="65" y="950" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-28" target="7OBlotwKf9dcvaxBll90-26">
+        <mxCell id="7OBlotwKf9dcvaxBll90-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="7OBlotwKf9dcvaxBll90-28" target="7OBlotwKf9dcvaxBll90-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购计划单推送过来的采购单&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购计划单推送过来的采购单&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="130" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-26" target="7OBlotwKf9dcvaxBll90-32">
+        <mxCell id="7OBlotwKf9dcvaxBll90-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7OBlotwKf9dcvaxBll90-26" target="7OBlotwKf9dcvaxBll90-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-26" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购经理&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-26" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购经理&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="905" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-28" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;人工确认&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-28" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;人工确认&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="930" y="200" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-25" target="7OBlotwKf9dcvaxBll90-28">
+        <mxCell id="7OBlotwKf9dcvaxBll90-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" parent="1" source="7OBlotwKf9dcvaxBll90-25" target="7OBlotwKf9dcvaxBll90-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="965" y="180" as="sourcePoint" />
             <mxPoint x="965" y="269.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;传输过来后是新建状态的采购单&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-32" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;传输过来后是新建状态的采购单&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="905" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-34" target="7OBlotwKf9dcvaxBll90-32">
+        <mxCell id="7OBlotwKf9dcvaxBll90-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="7OBlotwKf9dcvaxBll90-34" target="7OBlotwKf9dcvaxBll90-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1160" y="445" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;所属采购员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-34" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;所属采购员&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;宋体&quot;&gt;采购单上供应商默认的采购员&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-36" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;宋体&quot;&gt;采购单上供应商默认的采购员&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1121" y="360" width="89" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购经理推送时重新选择采购员&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购经理推送时重新选择采购员&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1070" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-38" target="7OBlotwKf9dcvaxBll90-39">
+        <mxCell id="7OBlotwKf9dcvaxBll90-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-38" target="7OBlotwKf9dcvaxBll90-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购订单管理&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购订单管理&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="905" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-39" target="7OBlotwKf9dcvaxBll90-42">
+        <mxCell id="7OBlotwKf9dcvaxBll90-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-39" target="7OBlotwKf9dcvaxBll90-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-39" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;直接创建采购订单&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-39" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;直接创建采购订单&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="905" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-42" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;只能选择一个供应商，同一个商品可以到多个目的地&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-42" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;只能选择一个供应商，同一个商品可以到多个目的地&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="905" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-44" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;以供应商为维度的多个采购商品可以以集群或客户为目的地。&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-44" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;以供应商为维度的多个采购商品可以以集群或客户为目的地。&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="810" y="720" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-45" target="7OBlotwKf9dcvaxBll90-46">
+        <mxCell id="7OBlotwKf9dcvaxBll90-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-45" target="7OBlotwKf9dcvaxBll90-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-45" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购在途未入库状态下的订单进行关闭时&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-45" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购在途未入库状态下的订单进行关闭时&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1420" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-46" target="7OBlotwKf9dcvaxBll90-48">
+        <mxCell id="7OBlotwKf9dcvaxBll90-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-46" target="7OBlotwKf9dcvaxBll90-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-46" target="7OBlotwKf9dcvaxBll90-52">
+        <mxCell id="7OBlotwKf9dcvaxBll90-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-46" target="7OBlotwKf9dcvaxBll90-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-46" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;校验有无预付款&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-46" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;校验有无预付款&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1430" y="630" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-48" target="7OBlotwKf9dcvaxBll90-50">
+        <mxCell id="7OBlotwKf9dcvaxBll90-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-48" target="7OBlotwKf9dcvaxBll90-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;如有&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批通过且已经实际支付的&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;预付款&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-48" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;如有&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批通过且已经实际支付的&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;预付款&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1570" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-50" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;将预付款增加到该供应商的预付款池中的&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;‘退预付款额’中&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-50" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;将预付款增加到该供应商的预付款池中的&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;‘退预付款额’中&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1570" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-52" target="7OBlotwKf9dcvaxBll90-54">
+        <mxCell id="7OBlotwKf9dcvaxBll90-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-52" target="7OBlotwKf9dcvaxBll90-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-52" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批通过未实际支付时&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-52" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批通过未实际支付时&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1290" y="730" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-54" target="7OBlotwKf9dcvaxBll90-56">
+        <mxCell id="7OBlotwKf9dcvaxBll90-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-54" target="7OBlotwKf9dcvaxBll90-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-54" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;需要将预付款单据作废&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-54" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;需要将预付款单据作废&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1295" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-56" target="7OBlotwKf9dcvaxBll90-58">
+        <mxCell id="7OBlotwKf9dcvaxBll90-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-56" target="7OBlotwKf9dcvaxBll90-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-56" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;不计入&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;‘退预付款额’中，且预付款池的‘预付款总金额’相应的减少，且记录作废原因和作废时间&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-56" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;不计入&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;‘退预付款额’中，且预付款池的‘预付款总金额’相应的减少，且记录作废原因和作废时间&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1277.5" y="970" width="155" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-58" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;知出纳人员&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-58" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;知出纳人员&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1295" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-60" target="7OBlotwKf9dcvaxBll90-61">
+        <mxCell id="7OBlotwKf9dcvaxBll90-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-60" target="7OBlotwKf9dcvaxBll90-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-60" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;创建采购订单生成的预付款单中&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-60" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;创建采购订单生成的预付款单中&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1780" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-61" target="7OBlotwKf9dcvaxBll90-63">
+        <mxCell id="7OBlotwKf9dcvaxBll90-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-61" target="7OBlotwKf9dcvaxBll90-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-61" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批时可以显示&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;‘退预付款额’&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;的具体金额&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-61" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批时可以显示&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;‘退预付款额’&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;的具体金额&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1790" y="630" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="7OBlotwKf9dcvaxBll90-63" target="7OBlotwKf9dcvaxBll90-65">
+        <mxCell id="7OBlotwKf9dcvaxBll90-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="7OBlotwKf9dcvaxBll90-63" target="7OBlotwKf9dcvaxBll90-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-63" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批人可勾选使用这部分金额&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-63" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批人可勾选使用这部分金额&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1780" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7OBlotwKf9dcvaxBll90-65" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;订单关闭时需要将关闭时间和关闭人的信息反写到采购单中&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="7OBlotwKf9dcvaxBll90-65" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;订单关闭时需要将关闭时间和关闭人的信息反写到采购单中&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1780" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-1" target="CnVy5HlTrtanmduPy0YN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;采购预付款&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;新建预付款单&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-6" target="CnVy5HlTrtanmduPy0YN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-2" target="CnVy5HlTrtanmduPy0YN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-2" value="是否手动创建" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-4" target="CnVy5HlTrtanmduPy0YN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-4" target="CnVy5HlTrtanmduPy0YN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 10.5pt;&quot;&gt;必须要先选择业务单据&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 10.5pt; background-color: initial;&quot;&gt;（采购单或采购越库单）&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-6" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-2" target="CnVy5HlTrtanmduPy0YN-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2450" y="290" as="sourcePoint" />
+            <mxPoint x="2300" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-8" target="CnVy5HlTrtanmduPy0YN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-8" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 10.5pt;&quot;&gt;必须要先选择业务单据&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-12" target="CnVy5HlTrtanmduPy0YN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 10.5pt;&quot;&gt;业务单据&lt;/span&gt;&lt;span style=&quot;text-align: left; text-indent: -21.25pt; background-color: initial; font-family: 微软雅黑; letter-spacing: 0pt; font-size: 12pt;&quot;&gt;1.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left; text-indent: -21.25pt; background-color: initial; font-family: 微软雅黑; letter-spacing: 0pt; font-size: 12pt;&quot;&gt;自动带出供应商名称、供应商编码、以及供应商可用预付款（预付款池中该供应商的可用预付款），以上字段不可编辑&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top:7.8000pt;margin-right:0.0000pt;margin-left:42.2500pt;&lt;br/&gt;mso-para-margin-left:0.0000gd;text-indent:-21.2500pt;mso-char-indent-count:0.0000;&lt;br/&gt;text-align:left;mso-list:l0 level1 lfo1;&quot; class=&quot;MsoBodyTextIndent&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; letter-spacing: 0pt; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2215" y="580" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 10.5pt;&quot;&gt;选择业务单据时&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-16" target="CnVy5HlTrtanmduPy0YN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-16" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 10.5pt;&quot;&gt;只可以选择自己名下的采购单或采购越库单&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-18" target="CnVy5HlTrtanmduPy0YN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 10.5pt;&quot;&gt;业务单号、请款金额、期望预付款时间、付款方式、收款人为必填项；备注为非必填项，申请人为当前登录人，自动带出不可编辑&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="97.5" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 10.5pt;&quot;&gt;新建的预付款单提交后出发审批流&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-24" target="CnVy5HlTrtanmduPy0YN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;采购预付款审批&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-25" target="CnVy5HlTrtanmduPy0YN-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;审批待办在&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;SCM&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;系统菜单路径&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;我的工作台&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&#xa;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;我的待办中进行处理&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-27" target="CnVy5HlTrtanmduPy0YN-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-27" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;发起审批的采购员可以在我的工作台&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:&#39;Times New Roman&#39;;mso-fareast-font-family:宋体;&lt;br/&gt;font-size:10.5000pt;mso-font-kerning:1.0000pt;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;我的请求中进行查看采购预付款单的审批状态和跟踪&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2965" y="700" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-29" target="CnVy5HlTrtanmduPy0YN-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-29" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;审批完成后的预付款申请&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-31" target="CnVy5HlTrtanmduPy0YN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-31" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;把批准金额增加到供应商预付款池对应的预付款总金额中进行累加&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="1010" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-33" target="CnVy5HlTrtanmduPy0YN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-33" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;新建预付款单提交后&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;该供应商预付款池的可用预付款中进行相应的扣减，如果审批驳回或不同意结束后再进行相应的增加&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2965" y="1270" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-37" target="CnVy5HlTrtanmduPy0YN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-37" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;审批时由采购经理确认&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3264" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-47" target="CnVy5HlTrtanmduPy0YN-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-45" target="CnVy5HlTrtanmduPy0YN-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-38" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;是否使用预付款池中的可用预付款&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="610" width="128" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-40" target="CnVy5HlTrtanmduPy0YN-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-40" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;如果勾选了之后预付款抵扣金额字段变为必填项&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-43" target="CnVy5HlTrtanmduPy0YN-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-43" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;默认审批时是否使用可用预付款是不选择的，预付款抵扣金额也是不可编辑状态&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="810" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-45" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="745" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-38" target="CnVy5HlTrtanmduPy0YN-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3324" y="710" as="sourcePoint" />
+            <mxPoint x="3420" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-47" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="755" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-38" target="CnVy5HlTrtanmduPy0YN-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3324" y="710" as="sourcePoint" />
+            <mxPoint x="3260" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-49" target="CnVy5HlTrtanmduPy0YN-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-49" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;审批时采购经理需要填写批准金额&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-53" target="CnVy5HlTrtanmduPy0YN-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnVy5HlTrtanmduPy0YN-53" target="CnVy5HlTrtanmduPy0YN-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-53" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;如过是否使用预付款字段&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3280" y="1130" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-56" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;那么实际预付金额就为批准金额&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-59" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&#xa;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;没勾选&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-60" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;那么实际预付金额&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;批准金额&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:微软雅黑;font-size:10.5000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot; dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;预付款抵扣金额&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CnVy5HlTrtanmduPy0YN-62" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span dir=&quot;LTR&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;勾选&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3380" y="1320" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
